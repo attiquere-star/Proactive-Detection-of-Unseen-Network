@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Proactive Detection of Unseen Network Intrusion Attacks Using a Hybrid BERT and Graph Neural Network Architecture"
+type: software
+license: MIT
+repository-code: "https://github.com/moazanbasoud/Zero-day-Attack"
+authors:
+  - {family-names: "Ibn E Tariq", given-names: "Ahmed Hasham"}
+  - {family-names: "Rehman", given-names: "Attique Ur"}
+  - {family-names: "Ibn E Tariq", given-names: "Moazan Basoud"}
+  - {family-names: "Akhtar", given-names: "Faijan"}
+  - {family-names: "Bin Hayat", given-names: "Mohd Ammar"}
+  - {family-names: "Aneeq", given-names: "Muhammad"}
+  - {family-names: "Qadri", given-names: "Syed Furqan"}
+  - {family-names: "Muaad", given-names: "Abdullah Y."}
+  - {family-names: "Bin Heyat", given-names: "Md Belal"}

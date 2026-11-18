@@ -1,0 +1,35 @@
+{
+  "title": "ThreatOrator–GraphAEGIS: code and artifacts for 'Proactive Detection of Unseen Network Intrusion Attacks Using a Hybrid BERT and Graph Neural Network Architecture'",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Ibn E Tariq, Ahmed Hasham"
+    },
+    {
+      "name": "Rehman, Attique Ur"
+    },
+    {
+      "name": "Ibn E Tariq, Moazan Basoud"
+    },
+    {
+      "name": "Akhtar, Faijan"
+    },
+    {
+      "name": "Bin Hayat, Mohd Ammar"
+    },
+    {
+      "name": "Aneeq, Muhammad"
+    },
+    {
+      "name": "Qadri, Syed Furqan"
+    },
+    {
+      "name": "Muaad, Abdullah Y."
+    },
+    {
+      "name": "Bin Heyat, Md Belal"
+    }
+  ],
+  "description": "Code, configuration files and metric-recomputation script accompanying the Scientific Reports manuscript."
+}

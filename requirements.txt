@@ -1,0 +1,10 @@
+# Python 3.13 (CPU); versions used for the re-run reported in the revised manuscript
+torch==2.15.0
+transformers==5.23.0
+tokenizers==0.23.3
+scikit-learn==1.9.1
+scipy==1.18.1
+pandas==3.1.1
+numpy==2.5.5
+pyarrow==26.0.1
+matplotlib==3.11.2
